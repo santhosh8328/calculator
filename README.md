@@ -1,7 +1,7 @@
 # calculator
 Simple Calculator using maven and java.
 
-Instruction about runnung this project. Steps are:
+Instruction about runnung this project. Steps are as below....
 
 (1) build this project using maven using command "mvn clean package"
 
