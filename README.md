@@ -1,5 +1,5 @@
 # calculator
-Simple Calculator using maven and java
+Simple Calculator using maven and java.
 
 Instruction about runnung this project
 
